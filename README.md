@@ -43,10 +43,11 @@ Extra calculations are intentionally avoided unless the lab explicitly asks for 
 
 > This table is updated as labs are completed and retested.
 
-| Lab # | Topic                   | CIDR | Block Size | Correct Subnet | Time | First Attempt | Retested | Mastered | Notes                                 |
-| ----- | ----------------------- | ---- | ---------- | -------------- | ---- | ------------- | -------- | -------- | ------------------------------------- |
-| 1     | Basic Class C Subnet ID | /26  | 64         | 192.168.1.0/26 |1 min.| Yes           | No       | No       | Focused only on subnet identification |
-| 2     | Basic Class C Subnet ID | /26  | 64         |192/168.1.100/26|30 sec| Yes           | No       | No       | Focused only on subnet identification |
+| Lab # | Topic                   | CIDR | Block Size | Correct Subnet     | Time   | First Attempt | Retested | Mastered | Notes |
+| ----- | ----------------------- | ---- | ---------- | ------------------ | ------ | ------------- | -------- | -------- | ----- |
+| 1     | Basic Class C Subnet ID | /26  | 64         | 192.168.1.0/26     | 30 sec | Yes           | Yes      | Yes      | Initial attempt used cheat sheet; retested successfully without it |
+| 2     | Basic Class C Subnet ID | /26  | 64         | 192.168.1.64/26    | 30 sec | Yes           | Yes      | Yes      | Retested without cheat sheet and answered confidently |
+
 
 
 ## Lab Documentation Structure
