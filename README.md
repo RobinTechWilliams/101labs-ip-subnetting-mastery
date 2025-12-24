@@ -47,6 +47,8 @@ Extra calculations are intentionally avoided unless the lab explicitly asks for 
 | ----- | ----------------------- | ---- | ---------- | ------------------ | ------ | ------------- | -------- | -------- | ----- |
 | 1     | Basic Class C Subnet ID | /26  | 64         | 192.168.1.0/26     | 30 sec | Yes           | Yes      | Yes      | Initial attempt used cheat sheet; retested successfully without it |
 | 2     | Basic Class C Subnet ID | /26  | 64         | 192.168.1.64/26    | 30 sec | Yes           | Yes      | Yes      | Retested without cheat sheet and answered confidently |
+| Review | Retention Check (/26–/28) | /26 /27 /28 | 64 / 32 / 16 | Correctly identified networks | ~15 min | Yes | N/A | Yes | No cheat sheet used; validated retention and network vs broadcast understanding |
+
 
 
 
