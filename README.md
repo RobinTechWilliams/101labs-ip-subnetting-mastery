@@ -48,6 +48,13 @@ Extra calculations are intentionally avoided unless the lab explicitly asks for 
 | 1     | Basic Class C Subnet ID | /26  | 64         | 192.168.1.0/26     | 30 sec | Yes           | Yes      | Yes      | Initial attempt used cheat sheet; retested successfully without it |
 | 2     | Basic Class C Subnet ID | /26  | 64         | 192.168.1.64/26    | 30 sec | Yes           | Yes      | Yes      | Retested without cheat sheet and answered confidently |
 | Review | Retention Check (/26–/28) | /26 /27 /28 | 64 / 32 / 16 | Correctly identified networks | ~15 min | Yes | N/A | Yes | No cheat sheet used; validated retention and network vs broadcast understanding |
+| 3 | Subnet Identification | /27 | 32 | 192.168.1.96/27   | 1 min  | Yes | No | Yes | Used jump method, block size recognized quickly |
+| 4 | Subnet Identification | /28 | 16 | 192.168.1.64/28   | <1 min | Yes | No | Yes | Counted subnet jumps aloud, no cheat sheet |
+| 5 | Subnet Identification | /28 | 16 | 192.168.1.128/28  | <1 min | Yes | No | Yes | Improved speed identifying correct subnet |
+| 6 | Subnet Identification | /28 | 16 | 192.168.1.208/28  | 1 min  | Yes | No | Yes | Jump method, no cheat sheet |
+| 7 | Subnet Identification | /28 | 16 | 192.168.1.64/28   | <1 min | Yes | No | Yes | Identified subnet boundaries confidently |
+| 8 | Subnet Identification | /29 | 8  | 200.100.100.248/29| 2 min  | Yes | No | Yes | Step-by-step reasoning, no cheat sheet |
+
 
 
 
